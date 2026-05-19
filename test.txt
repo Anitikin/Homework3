@@ -1,0 +1,8 @@
+dog 
+cat
+cow f2
+123456
+789010
+qwerty f2f2f2
+asdfgh
+hello
